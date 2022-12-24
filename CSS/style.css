@@ -245,3 +245,42 @@
 
   color: #efefef;
 }
+
+.registration {
+  min-height: 631px;
+  padding: 88px 0px 79px 0px;
+  background: #efefef;
+}
+
+.registration_img {
+  display: block;
+  margin: 0 auto;
+}
+
+.registration_text {
+  margin-top: 40px;
+  width: 1161px;
+  height: 113px;
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 28px;
+  text-align: center;
+  color: #252525;
+}
+
+.registration_btn {
+  display: block;
+  margin: 0 auto;
+  margin-top: -10px;
+  width: 313px;
+  height: 72px;
+  background: linear-gradient(0deg, #2798b9 0%, #3ab6da 100%);
+  font-family: "RobotoCondensed";
+  font-size: 18px;
+  line-height: 21px;
+  text-align: center;
+  text-transform: uppercase;
+  color: #ffffff;
+}

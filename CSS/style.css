@@ -332,3 +332,26 @@
 
   color: #4a4a4a;
 }
+
+.podval {
+  min-height: 169px;
+  background: #1a1a1a;
+}
+
+.info {
+  padding: 57px 69px 0;
+  margin: 0 auto;
+  width: 575px;
+  height: 43px;
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 21px;
+  text-align: center;
+  text-decoration-line: underline;
+  color: #e3eeee;
+}
+
+.1_ssilka {
+  color: #e3eeee;
+}

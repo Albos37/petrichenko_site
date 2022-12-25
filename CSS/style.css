@@ -284,3 +284,51 @@
   text-transform: uppercase;
   color: #ffffff;
 }
+
+.first {
+  padding: 40px;
+  min-height: 514px;
+  background: #ffffff;
+}
+
+.first_img {
+  display: block;
+  margin: 0 auto;
+}
+
+.first_header {
+  font-family: "Roboto";
+  margin-top: 36px;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 30px;
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #252525;
+}
+
+.first_date {
+  font-family: "Roboto";
+  margin-top: 30px;
+  font-weight: 900;
+  font-size: 36px;
+  line-height: 36px;
+
+  text-align: center;
+  text-transform: uppercase;
+
+  color: #299cbd;
+}
+
+.first_hurry {
+  margin-top: 25px;
+  font-family: "Roboto";
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 20px;
+  text-align: center;
+
+  color: #4a4a4a;
+}

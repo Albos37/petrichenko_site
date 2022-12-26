@@ -339,7 +339,7 @@
 }
 
 .info {
-  padding: 57px 69px 0;
+  padding-top: 57px;
   margin: 0 auto;
   width: 575px;
   height: 43px;
@@ -354,4 +354,15 @@
 
 .info a {
   color: #efefef;
+}
+
+.podval_text {
+  margin: 0 auto;
+  font-family: "Roboto";
+  font-weight: 300;
+  font-size: 15px;
+  line-height: 21px;
+  text-align: center;
+
+  color: #e3eeee;
 }

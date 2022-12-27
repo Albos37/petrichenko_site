@@ -333,36 +333,32 @@
   color: #4a4a4a;
 }
 
-.podval {
-  min-height: 169px;
-  background: #1a1a1a;
+footer {
+  min-height: 166px;
+  background-color: #1a1a1a;
+  padding: 61px 0 69px 0;
 }
 
 .info {
-  padding-top: 57px;
   margin: 0 auto;
-  width: 575px;
-  height: 43px;
-  font-family: "Roboto";
-  font-weight: 300;
-  font-size: 15px;
-  line-height: 21px;
+  width: 377px;
   text-align: center;
-  text-decoration-line: underline;
-  color: #e3eeee;
+  color: #888888;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 21px;
 }
 
-.info a {
-  color: #efefef;
+footer a {
+  color: #888888;
+  font-family: Roboto;
+  font-size: 15px;
+  font-weight: 300;
+  line-height: 21px;
+  text-decoration: none;
 }
 
-.podval_text {
-  margin: 0 auto;
-  font-family: "Roboto";
-  font-weight: 300;
-  font-size: 15px;
-  line-height: 21px;
-  text-align: center;
-
-  color: #e3eeee;
+.underlined {
+  text-decoration: underline;
 }
